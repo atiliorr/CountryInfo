@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Country Info</string>
+    <string name="capital">Capital: </string>
+    <string name="region">Region: </string>
+    <string name="population">Population: </string>
+    <string name="error">We were unable to load the data</string>
+</resources>
